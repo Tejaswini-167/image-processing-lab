@@ -7,3 +7,5 @@
 ### - [Lab5.Geometric Transformation Of Images ](Lab5/ImageProcessing_Lab5.ipynb)
 ### - [Lab6. Image Thresholding And Binarization ](Lab6/ImageProcessing_Lab6.ipynb)
 ### - [Lab7. Edage Detection Techniques ](Lab7/Image_Processing_Lab7.ipynb)
+### - [Lab8. Edage Detection Techniques ](Lab8/Image_Processing_Lab8.ipynb)
+### - [Lab9. SIFT Feature Detection and Matching ](Lab9/Image_Processing_Lab9.ipynb)
